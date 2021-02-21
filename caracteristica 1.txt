@@ -13,3 +13,6 @@ añado para subir al servidor
 
 
 otro cambio pero sin push
+
+
+arreglo rápido en produccion
